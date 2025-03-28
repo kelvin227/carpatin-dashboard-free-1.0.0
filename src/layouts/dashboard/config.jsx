@@ -63,7 +63,7 @@ export const items = [
     label: 'Error'
   },
   {
-    href: '',
+    href: '/',
     icon: (
       <SvgIcon>
         <WalletIcon />
